@@ -7,3 +7,5 @@ An Air Ticket Reservation System using Spring MVC, Spring ORM, Hibernate Templat
 3. User
 
 ** Details of the database can be found in the dump **
+
+*** Also add the mysql-connector-java in the pom.xml ***
